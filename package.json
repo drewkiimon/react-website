@@ -1,7 +1,7 @@
 {
   "name": "website",
   "version": "0.1.0",
-  "homepage": "http://www.andrewpagan.me/react-website",
+  "homepage": "http://www.andrewpagan.me/react-website/",
   "private": true,
   "dependencies": {
     "gh-pages": "^1.2.0",
